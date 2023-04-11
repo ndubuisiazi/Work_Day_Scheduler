@@ -31,7 +31,7 @@ Saved events persist upon page refresh
 To use the Work Day Scheduler, simply clone this repository and open index.html in your favorite browser.
 bash
 Copy code
-git clone https://github.com/yourusername/work-day-scheduler.git
+git clone https://github.com/ndubuisiazi/Work_Day_Scheduler.git
 cd work-day-scheduler
 open index.html
 
